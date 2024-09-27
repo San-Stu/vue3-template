@@ -1,0 +1,9 @@
+{
+  "useTaobaoRegistry": true,
+  "packageManager": "yarn",
+  "useConfigFiles": true,
+  "router": false,
+  "vuex": false,
+  "plugins": {},
+  "configs": {}
+}

@@ -1,0 +1,19 @@
+{
+  "name": "vue3-joyrun",
+  "version": "1.0.0",
+  "description": "vue3 template for joyrun",
+  "main": "prompts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/San-Stu/vue3-joyrun.git"
+  },
+  "author": "sanstu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/San-Stu/vue3-joyrun/issues"
+  },
+  "homepage": "https://github.com/San-Stu/vue3-joyrun#readme"
+}
